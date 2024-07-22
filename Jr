@@ -1,0 +1,68 @@
+# Meu Projeto Final em Ciência de Dados
+## Introdução
+
+Neste notebook, exploraremos diversas ferramentas e conceitos fundamentais em ciência de dados. O objetivo é demonstrar a capacidade de utilizar ferramentas de análise e programação para realizar tarefas típicas em ciência de dados.
+## Linguagens de Ciência de Dados
+
+As principais linguagens de programação utilizadas em ciência de dados incluem:
+
+- Python
+- R
+- SQL
+- Julia
+- Scala
+## Bibliotecas de Ciência de Dados
+
+Algumas das bibliotecas mais utilizadas em ciência de dados são:
+
+- NumPy
+- pandas
+- Matplotlib
+- Seaborn
+- SciPy
+- scikit-learn
+- TensorFlow
+- PyTorch
+## Ferramentas de Ciência de Dados
+
+| Ferramenta    | Descrição                                   |
+|---------------|---------------------------------------------|
+| Jupyter       | Ambiente interativo para programação e análise de dados. |
+| Tableau       | Ferramenta de visualização de dados.        |
+| Power BI      | Ferramenta de análise e visualização de dados da Microsoft. |
+| Apache Spark  | Framework para processamento de grandes volumes de dados. |
+| GitHub        | Plataforma de hospedagem de código e colaboração. |
+## Exemplos de Expressões Aritméticas
+
+Aqui estão alguns exemplos básicos de expressões aritméticas:
+
+- Adição: `5 + 3`
+- Subtração: `10 - 4`
+- Multiplicação: `7 * 6`
+- Divisão: `8 / 2`
+- Potenciação: `2 ** 3`
+# Multiplicação e adição de números
+a = 7
+b = 3
+multiplicacao = a * b
+adicao = a + b
+
+multiplicacao, adicao
+
+# Conversão de minutos em horas
+def converter_minutos_para_horas(minutos):
+    horas = minutos / 60
+    return horas
+
+# Exemplo de conversão
+minutos = 120
+converter_minutos_para_horas(minutos)
+## Objetivos
+
+- Demonstrar a capacidade de usar Jupyterlite Notebook para ciência de dados.
+- Listar e descrever linguagens e bibliotecas de ciência de dados.
+- Criar e executar células de código para realizar operações aritméticas e conversões.
+- Compartilhar o notebook no GitHub.
+## Autor
+
+Nome do Autor: Israel
